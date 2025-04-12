@@ -8,9 +8,8 @@ const Footer = () => {
                 <div className='w-full md:w-1/3 mb-8 md:mb-0'>
                     <img src={assets.logo_dark} alt="" />
                     <p className='text-gray-400 mt-4 text-justify'>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia quos fugiat maiores veniam 
-                        ipsa neque inventore optio soluta rerum! Voluptatem ab ad enim dolor optio rem explicabo reiciendis 
-                        voluptatum aut?
+                    Estate is dedicated to helping you find more than just a property — we help you discover your next chapter. 
+                    With a passion for quality and a commitment to transparency, we turn dreams into addresses. Let us guide you home.
                     </p>
                 </div>
                 <div className='w-full md:w-1/5 mb-8 md:mb-0'>

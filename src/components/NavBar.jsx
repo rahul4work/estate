@@ -12,7 +12,7 @@ const NavBar = () => {
       document.body.style.overflow = 'auto'
     }
     return ()=>{
-      document.body.style.overflow = 'aut'
+      document.body.style.overflow = 'auto'
     }
   },[showMobileMenu])
   
