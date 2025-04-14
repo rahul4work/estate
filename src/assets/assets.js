@@ -80,7 +80,7 @@ export const projectsData = [
         image: profile_img_1,
         alt: "Portrait of Donald Jackman",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "Working with this team was a game-changer. They were incredibly patient, answered all my questions, and found me a home that exceeded my expectations. I felt supported every step of the way — truly professional service."
     },
     {
         name: "Richard Nelson",
@@ -88,7 +88,7 @@ export const projectsData = [
         image: profile_img_2,
         alt: "Portrait of Richard Nelson",
         rating: 4,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "As a designer, aesthetics and functionality matter to me — and they nailed both. Their listings were top-notch, and the entire process was smooth and transparent. Highly recommend them to anyone looking for a reliable real estate partner."
     },
     {
         name: "James Washington",
@@ -96,6 +96,6 @@ export const projectsData = [
         image: profile_img_3,
         alt: "Portrait of James Washington",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "Finding the right property for our growing business was crucial, and these folks delivered. Their market knowledge, negotiation skills, and genuine interest in our needs made all the difference. Couldn't be happier with the experience."
     }
 ];

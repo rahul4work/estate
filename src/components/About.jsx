@@ -41,12 +41,12 @@ const About = () => {
               <p>Ongoing Projects</p>
             </div>
           </div>
-          <p className='my-10 max-w-lg text-justify'>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Eius eveniet velit suscipit quas, corrupti, voluptatum vero blanditiis ipsum deserunt
-            voluptatibus, magnam quaerat inventore. Quod tempora animi, quis tenetur sed iste. Lorem,
-            ipsum dolor sit amet consectetur adipisicing elit. Sunt sed iste, inventore beatae aperiam
-            eum sequi quae dolore unde culpa saepe laudantium corporis, voluptatibus minima? Voluptates
-            quam ipsam incidunt modi.
+          <p className='my-10 max-w-lg text-justify'>Estate is a modern real estate platform
+            designed to connect homebuyers with their dream properties seamlessly. Built with
+            a focus on user experience and performance, the platform showcases property listings
+            with intuitive navigation, responsive layouts, and dynamic interactions. Our mission
+            is to simplify the property search process by offering a visually engaging and
+            accessible interface that works effortlessly across all devices.
           </p>
           <button className='bg-blue-600 text-white px-8 py-2 rounded'>Learn more</button>
         </div>
