@@ -3,7 +3,7 @@
 ## Project Overview
 
 **Estate** is a sleek, modern real estate web application built entirely with **React.js**, designed to provide users with a seamless experience while exploring and managing properties. It is fully responsive and optimized for both desktop and mobile devices.
-
+It is currently only a frontend website. And backend will be updated soon.
 
 ---
 
