@@ -46,7 +46,7 @@
 | | | | |
 |---|---|---|---|
 | ![Screenshot_20250619-172237 Brave](https://github.com/user-attachments/assets/34cdf359-475a-4f3f-8337-90429c0f7ab2) | ![Screenshot_20250619-172242 Brave](https://github.com/user-attachments/assets/558b8b5a-d13f-4078-9c6f-c899d70f358e) | ![Screenshot_20250619-172315 Brave](https://github.com/user-attachments/assets/c83f1fa9-b23d-4f90-8075-a72d6cd7b9e0) | ![Screenshot_20250619-172328 Brave](https://github.com/user-attachments/assets/d3fcf9bb-f3f3-433b-a884-45f517aa9bdd) |
-| ![Screenshot_20250619-172531 Brave](https://github.com/user-attachments/assets/ac607104-e64d-4572-8e55-8c3e6eec73cb) | ![Screenshot_20250619-172908 Brave](https://github.com/user-attachments/assets/4f9dc148-62ef-4e08-8f23-a2068f3f6229) | ![Screenshot_20250619-172913 Brave](https://github.com/user-attachments/assets/b449223b-3eee-44e8-8513-d0ec1326ad6f) |
+| ![Screenshot_20250619-172531 Brave](https://github.com/user-attachments/assets/ac607104-e64d-4572-8e55-8c3e6eec73cb) | ![Screenshot_20250620-133801 Brave](https://github.com/user-attachments/assets/328561e8-92a5-48d9-b829-871ee1891701) | ![Screenshot_20250619-172908 Brave](https://github.com/user-attachments/assets/4f9dc148-62ef-4e08-8f23-a2068f3f6229) | ![Screenshot_20250619-172913 Brave](https://github.com/user-attachments/assets/b449223b-3eee-44e8-8513-d0ec1326ad6f) |
 
 ---
 
