@@ -32,6 +32,7 @@
 
 ## 🖥️💡 Laptop Preview
 
+![Screenshot 2025-06-19 171943](https://github.com/user-attachments/assets/ef8ee32d-108b-4911-a47a-2135b5a9b1c0)
 ![Screenshot 2025-06-19 171958](https://github.com/user-attachments/assets/99c5eff8-a5a2-401e-9a64-f186ef5a7708)
 ![Screenshot 2025-06-19 172014](https://github.com/user-attachments/assets/4934db0b-291e-42d6-8d70-fd398a2a3bcc)
 ![Screenshot 2025-06-19 172029](https://github.com/user-attachments/assets/cf59226c-141f-46ab-ba24-0a61285be92e)
